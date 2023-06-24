@@ -1,0 +1,12 @@
+[submodule "Front-End"]
+	path = Front-End
+	url = https://github.com/Physio-plus-org/Front-End
+[submodule "Back-End"]
+	path = Back-End
+	url = https://github.com/Physio-plus-org/Back-End
+[submodule "Mock-Up"]
+	path = Mock-Up
+	url = https://github.com/Physio-plus-org/Mock-Up
+[submodule "presentation"]
+	path = presentation
+	url = https://github.com/Physio-plus-org/presentation
